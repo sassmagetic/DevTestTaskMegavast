@@ -9,6 +9,9 @@ and no new games would be retrieved. If name of the game always is returned with
 I use Flask for this task
 Run ```pip install -r requirements.txt``` to intall it
 Get result by following URL http://localhost:12345/TEST
+To run server
+```python server.py```
 
 # Mission 3
+Use the same server as in Mission 2
 Get result by following URL http://localhost:12345/?search=[word]
