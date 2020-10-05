@@ -1,0 +1,359 @@
+{'total_number': 178, 'games': [
+        {'name': 'Age of Empires', 'number': 1
+        },
+        {'name': 'America’s Army', 'number': 2
+        },
+        {'name': 'Assassin’s Creed', 'number': 3
+        },
+        {'name': 'Baldur’s Gate', 'number': 4
+        },
+        {'name': 'Bank Craps', 'number': 5
+        },
+        {'name': 'BioShock', 'number': 6
+        },
+        {'name': 'Board Games', 'number': 7
+        },
+        {'name': 'Bouts-rimés', 'number': 8
+        },
+        {'name': 'Call of Duty', 'number': 9
+        },
+        {'name': 'Card Games', 'number': 10
+        },
+        {'name': 'Chessmaster', 'number': 11
+        },
+        {'name': 'Children’s Games', 'number': 12
+        },
+        {'name': 'Chinese chess', 'number': 13
+        },
+        {'name': 'Civilization', 'number': 14
+        },
+        {'name': 'Command & Conquer', 'number': 15
+        },
+        {'name': 'Diablo', 'number': 16
+        },
+        {'name': 'Dice', 'number': 17
+        },
+        {'name': 'Disgaea', 'number': 18
+        },
+        {'name': 'Donkey Kong', 'number': 19
+        },
+        {'name': 'Doom', 'number': 20
+        },
+        {'name': 'Electronic And Online', 'number': 21
+        },
+        {'name': 'FIFA', 'number': 22
+        },
+        {'name': 'Fallout', 'number': 23
+        },
+        {'name': 'Fan-Tan', 'number': 24
+        },
+        {'name': 'Far Cry', 'number': 25
+        },
+        {'name': 'Final Fantasy', 'number': 26
+        },
+        {'name': 'Gambling', 'number': 27
+        },
+        {'name': 'God of War', 'number': 28
+        },
+        {'name': 'Grand Theft Auto', 'number': 29
+        },
+        {'name': 'Guitar Hero', 'number': 30
+        },
+        {'name': 'Half-Life', 'number': 31
+        },
+        {'name': 'Halo', 'number': 32
+        },
+        {'name': 'Kingdom Hearts', 'number': 33
+        },
+        {'name': 'Lineage', 'number': 34
+        },
+        {'name': 'LittleBigPlanet', 'number': 35
+        },
+        {'name': 'London Bridge', 'number': 36
+        },
+        {'name': 'Madden NFL', 'number': 37
+        },
+        {'name': 'Metal Gear Solid', 'number': 38
+        },
+        {'name': 'Monopoly', 'number': 39
+        },
+        {'name': 'Myst', 'number': 40
+        },
+        {'name': 'Myth', 'number': 41
+        },
+        {'name': 'Nine Men’s Morris', 'number': 42
+        },
+        {'name': 'Other', 'number': 43
+        },
+        {'name': 'Pac-Man', 'number': 44
+        },
+        {'name': 'Pachisi', 'number': 45
+        },
+        {'name': 'Plafond', 'number': 46
+        },
+        {'name': 'Pokémon', 'number': 47
+        },
+        {'name': 'Polish checkers', 'number': 48
+        },
+        {'name': 'Pong', 'number': 49
+        },
+        {'name': 'Prince of Persia', 'number': 50
+        },
+        {'name': 'Railroad Tycoon', 'number': 51
+        },
+        {'name': 'Resident Evil', 'number': 52
+        },
+        {'name': 'Rock Band', 'number': 53
+        },
+        {'name': 'Romance of the Three Kingdoms', 'number': 54
+        },
+        {'name': 'Scrabble', 'number': 55
+        },
+        {'name': 'Second Life', 'number': 56
+        },
+        {'name': 'SimCity', 'number': 57
+        },
+        {'name': 'SingStar', 'number': 58
+        },
+        {'name': 'Space Invaders', 'number': 59
+        },
+        {'name': 'Spore', 'number': 60
+        },
+        {'name': 'StarCraft', 'number': 61
+        },
+        {'name': 'Street Fighter', 'number': 62
+        },
+        {'name': 'Super Mario Bros.', 'number': 63
+        },
+        {'name': 'Tetris', 'number': 64
+        },
+        {'name': 'The Legend of Zelda', 'number': 65
+        },
+        {'name': 'The Sims', 'number': 66
+        },
+        {'name': 'Tomb Raider', 'number': 67
+        },
+        {'name': 'Trente et Quarante', 'number': 68
+        },
+        {'name': 'Turkish checkers', 'number': 69
+        },
+        {'name': 'Unreal Tournament', 'number': 70
+        },
+        {'name': 'Wii Fit', 'number': 71
+        },
+        {'name': 'Wii Sports', 'number': 72
+        },
+        {'name': 'World of Warcraft', 'number': 73
+        },
+        {'name': 'Zork', 'number': 74
+        },
+        {'name': 'acey-deucey', 'number': 75
+        },
+        {'name': 'all fours', 'number': 76
+        },
+        {'name': 'baccarat', 'number': 77
+        },
+        {'name': 'backgammon', 'number': 78
+        },
+        {'name': 'bagatelle', 'number': 79
+        },
+        {'name': 'balkline billiards', 'number': 80
+        },
+        {'name': 'barbooth', 'number': 81
+        },
+        {'name': 'baseball', 'number': 82
+        },
+        {'name': 'belote', 'number': 83
+        },
+        {'name': 'bezique', 'number': 84
+        },
+        {'name': 'bingo', 'number': 85
+        },
+        {'name': 'biritch', 'number': 86
+        },
+        {'name': 'blackjack', 'number': 87
+        },
+        {'name': 'blindman’s buff', 'number': 88
+        },
+        {'name': 'bridge', 'number': 89
+        },
+        {'name': 'bridge whist', 'number': 90
+        },
+        {'name': 'canasta', 'number': 91
+        },
+        {'name': 'carom billiards', 'number': 92
+        },
+        {'name': 'casino', 'number': 93
+        },
+        {'name': 'charades', 'number': 94
+        },
+        {'name': 'checkers', 'number': 95
+        },
+        {'name': 'chemin de fer', 'number': 96
+        },
+        {'name': 'chess', 'number': 97
+        },
+        {'name': 'chuck-a-luck', 'number': 98
+        },
+        {'name': 'cottabus', 'number': 99
+        },
+        {'name': 'crambo', 'number': 100
+        },
+        {'name': 'craps', 'number': 101
+        },
+        {'name': 'crazy eights', 'number': 102
+        },
+        {'name': 'cribbage', 'number': 103
+        },
+        {'name': 'crown and anchor', 'number': 104
+        },
+        {'name': 'darts', 'number': 105
+        },
+        {'name': 'dodgeball', 'number': 106
+        },
+        {'name': 'domino', 'number': 107
+        },
+        {'name': 'domino whist', 'number': 108
+        },
+        {'name': 'dominoes', 'number': 109
+        },
+        {'name': 'double dutch', 'number': 110
+        },
+        {'name': 'duplicate bridge', 'number': 111
+        },
+        {'name': 'eight ball', 'number': 112
+        },
+        {'name': 'eleusis', 'number': 113
+        },
+        {'name': 'euchre', 'number': 114
+        },
+        {'name': 'fan-tan', 'number': 115
+        },
+        {'name': 'faro', 'number': 116
+        },
+        {'name': 'five hundred', 'number': 117
+        },
+        {'name': 'ghosts', 'number': 118
+        },
+        {'name': 'gin rummy', 'number': 119
+        },
+        {'name': 'go', 'number': 120
+        },
+        {'name': 'golf', 'number': 121
+        },
+        {'name': 'goose', 'number': 122
+        },
+        {'name': 'grand hazard', 'number': 123
+        },
+        {'name': 'hanafuda', 'number': 124
+        },
+        {'name': 'hazard', 'number': 125
+        },
+        {'name': 'hearts', 'number': 126
+        },
+        {'name': 'hide-and-seek', 'number': 127
+        },
+        {'name': 'hopscotch', 'number': 128
+        },
+        {'name': 'jacks', 'number': 129
+        },
+        {'name': 'keno', 'number': 130
+        },
+        {'name': 'kho-kho (Indian tag)', 'number': 131
+        },
+        {'name': 'klaberjass', 'number': 132
+        },
+        {'name': 'loo', 'number': 133
+        },
+        {'name': 'mah-jongg', 'number': 134
+        },
+        {'name': 'muggins', 'number': 135
+        },
+        {'name': 'mumblety-peg', 'number': 136
+        },
+        {'name': 'nap', 'number': 137
+        },
+        {'name': 'nim', 'number': 138
+        },
+        {'name': 'nyout', 'number': 139
+        },
+        {'name': 'old maid', 'number': 140
+        },
+        {'name': 'ombre', 'number': 141
+        },
+        {'name': 'pan', 'number': 142
+        },
+        {'name': 'pick-up-sticks', 'number': 143
+        },
+        {'name': 'pinball', 'number': 144
+        },
+        {'name': 'pinochle', 'number': 145
+        },
+        {'name': 'piquet', 'number': 146
+        },
+        {'name': 'pocket billiards', 'number': 147
+        },
+        {'name': 'poker', 'number': 148
+        },
+        {'name': 'poker dice', 'number': 149
+        },
+        {'name': 'pool', 'number': 150
+        },
+        {'name': 'preference', 'number': 151
+        },
+        {'name': 'president', 'number': 152
+        },
+        {'name': 'prisoner’s base', 'number': 153
+        },
+        {'name': 'pyramids', 'number': 154
+        },
+        {'name': 'red dog', 'number': 155
+        },
+        {'name': 'roulette', 'number': 156
+        },
+        {'name': 'rummy', 'number': 157
+        },
+        {'name': 'samba', 'number': 158
+        },
+        {'name': 'shogi', 'number': 159
+        },
+        {'name': 'sic bo', 'number': 160
+        },
+        {'name': 'sixty-six', 'number': 161
+        },
+        {'name': 'skat', 'number': 162
+        },
+        {'name': 'slap jack', 'number': 163
+        },
+        {'name': 'snooker', 'number': 164
+        },
+        {'name': 'solitaire', 'number': 165
+        },
+        {'name': 'spades', 'number': 166
+        },
+        {'name': 'stickball', 'number': 167
+        },
+        {'name': 'straight-rail billiards', 'number': 168
+        },
+        {'name': 'tag', 'number': 169
+        },
+        {'name': 'the dozens', 'number': 170
+        },
+        {'name': 'tip-cat', 'number': 171
+        },
+        {'name': 'triumph', 'number': 172
+        },
+        {'name': 'twenty questions', 'number': 173
+        },
+        {'name': 'twenty-five', 'number': 174
+        },
+        {'name': 'twenty-six', 'number': 175
+        },
+        {'name': 'vint', 'number': 176
+        },
+        {'name': 'whist', 'number': 177
+        },
+        {'name': 'écarté', 'number': 178
+        }
+    ]
+}
